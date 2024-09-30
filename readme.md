@@ -31,6 +31,9 @@ O diagrama da arquitetura a seguir ilustra a interação entre os dispositivos I
 
 ![Diagrama da Arquitetura](https://drive.google.com/file/d/1x6EWihbr-Syn5gd97AYBpSC94VDAW3eC/view?usp=sharing)
 
+![Screenshot 2024-09-30 at 18 07 33](https://github.com/user-attachments/assets/78520030-e0b4-4928-a5ce-19bb288f5563)
+
+
 
 
 ## Recursos Necessários
